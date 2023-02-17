@@ -1,8 +1,14 @@
 import React from 'react'
+import Santi from './Santi'
 
 const Javier = () => {
+
+    const users = [];
+
   return (
-    <div>Javier</div>
+    <div>
+        <Santi users={users}></Santi>
+    </div>
   )
 }
 
