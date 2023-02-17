@@ -7,7 +7,9 @@ const Javier = () => {
 
   return (
     <div>
-        <Santi users={users}></Santi>
+      <h1>Soy Javier Álvarez</h1>
+      <h3>Esta es mi rama</h3>
+      <Santi users={users}></Santi>
     </div>
   )
 }
