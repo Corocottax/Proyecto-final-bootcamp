@@ -2,7 +2,10 @@ import React from 'react'
 
 const Javier = () => {
   return (
-    <div>Javier</div>
+    <div>
+      <h1>Soy Javier Álvarez</h1>
+      <h3>Esta es mi rama</h3>
+    </div>
   )
 }
 
