@@ -2,7 +2,12 @@ import React from 'react'
 
 const Gabriel = () => {
   return (
-    <div>Gabriel</div>
+    <div>
+      <p>
+        Olá, tudo bem? 
+        
+      </p>
+    </div>
   )
 }
 
